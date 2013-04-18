@@ -1,4 +1,4 @@
-#this is for github practice
+#This is Team Fiery Skippers image_scrapper_2000 (its scrappy for a scraper)
 ###things that could use additions for better awesomeness
 * a better way to place the saved files instead of the root folder where you run the script
 * a view
